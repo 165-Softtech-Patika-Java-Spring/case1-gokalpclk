@@ -1,0 +1,8 @@
+
+}
+java:S4144*"`Update this method so that its implementation is not identical to "totalAmountHouse" on line 18.(§»©8Õõ®˜ï/
+[
+java:S1854O"9Remove this useless assignment to local variable "total".(şŒ×¬ıÿÿÿÿ8ïÈû—ï/
+P
+java:S1121O".Extract the assignment out of this expression.(şŒ×¬ıÿÿÿÿ8ñÈû—ï/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Àö—ƒÿÿÿÿÿ
