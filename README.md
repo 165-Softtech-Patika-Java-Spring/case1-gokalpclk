@@ -1,3 +1,8 @@
+# Project
+
+-Hosing directory include Ev, Villa and yazlik class. Villa and Yazlik extends Ev.
+-ReqServices class include homework 3.rd requirment
+
 # Case1
 
 1. Ev, Villa, Yazlık tipinde 3 adet ev tipi oluşturunuz.
